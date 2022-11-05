@@ -23,7 +23,8 @@ To run,
 To use,
 
 # Credits
-
+HAZEL IP https://github.com/hazelkimhyejin
+GAN WEN BING https://github.com/GanWenBing
 # License
 
 # User Experience
@@ -36,16 +37,37 @@ About Us
 Our Cats
 Grcs
 News
-Veterinarians
 Volunteer
-Our Volunteers
-Donate Today
+Donate
 Log In
 Sign Up
 Merchandise
 Adopt
 Contact Us
 Visit Us
+
+About
+![alt text](http://url/to/img.png)
+Our Cats
+![alt text](http://url/to/img.png)
+GRCs
+![alt text](http://url/to/img.png)
+News
+![alt text](http://url/to/img.png)
+Volunteer
+![alt text](http://url/to/img.png)
+Donate
+![alt text](http://url/to/img.png)
+Merchandise
+![alt text](http://url/to/img.png)
+Adopt
+![alt text](http://url/to/img.png)
+Contact Us
+![alt text](http://url/to/img.png)
+Log In
+![alt text](http://url/to/img.png)
+Sign Up
+![alt text](http://url/to/img.png)
 
 # Code Overview
 

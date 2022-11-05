@@ -75,6 +75,7 @@ Sign Up
 # Challenges Faced
 
 # Future advancements
+Monthly updates on 26th day of each month.
 
 # Summary
 Building Community Cats Singapore using JavaScript has been an incredibly enriching experience which utilizes my knowledge gained with regards to the frontend and backend development. 
